@@ -138,7 +138,7 @@ Convert the interface of a class into another interface clients expect. Adapter 
 3. 匹配一个老的组件到一个新的接口。
 """
 
-# 设计要点
+# 设计要点—
 """
 适配器模式中主要三个角色，在设计适配器模式时要找到并区分这些角色：
 1. 目标（Target）： 即你期望的目标接口，要转换成的接口。
